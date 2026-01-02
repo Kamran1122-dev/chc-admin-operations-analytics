@@ -23,4 +23,3 @@ This project is designed to reflect typical NHS community healthcare administrat
 - SQLite (database)
 - Streamlit (dashboard)
 
-## Project structure
